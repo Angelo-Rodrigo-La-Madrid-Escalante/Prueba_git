@@ -1,11 +1,17 @@
-# PROYECTO JUEGOS CLASICOS
+# Calculadora cientifica
+El siguiente trabajo debe presentar:
+- Pantalla que muestre los cálculos y resultados.
+- Memoria para almacenar valores temporales.
 
-- YanKenPo
-- Fu-Manchú
-- Bingo (americano)
+debe cumplir con las siguientes funciones:
+- Operaciones aritméticas básicas: suma, resta, multiplicación, división.
+- Funciones trigonométricas: seno, coseno, tangente.
+- Funciones exponenciales: exponente, raíz cuadrada.
+- Funciones logarítmicas: logaritmo natural, logaritmo en base 10, logaritmo en base 7 y logaritmo en base 2.
+- Funciones hiperbólicas: seno hiperbólico, coseno hiperbólico, tangente hiperbólica.
+- Operaciones de potencia y raíz n-ésima.
+- Operaciones de factorial y combinación.
+- Funciones estadísticas: media, desviación estándar.
+- Conversión de unidades: longitud, masa, tiempo.
 
-# Menu del juego
-![MenuJuego](https://github.com/AngeloLaMadrid/ProyectosJAVA_2doSemestre/assets/101282128/b13a34b9-502f-49da-a70a-39b90fd08f48)
-# Juegos
-![Juegos](https://github.com/AngeloLaMadrid/ProyectosJAVA_2doSemestre/assets/101282128/344b2da7-d347-414f-928b-d9a4b9e263f4)
-Esto es parte de los proyectos que logre recuperar de mis clases
+
