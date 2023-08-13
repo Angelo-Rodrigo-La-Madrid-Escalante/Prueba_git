@@ -2,6 +2,7 @@
 El siguiente trabajo debe presentar:
 - Pantalla que muestre los cálculos y resultados.
 - Memoria para almacenar valores temporales.
+- Debe ser adaptable al tamaño y proporcion de los botones
 
 debe cumplir con las siguientes funciones:
 - Operaciones aritméticas básicas: suma, resta, multiplicación, división.
