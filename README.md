@@ -4,12 +4,13 @@
 
 ## 💡 ¿Qué es nuestro proyecto?
 
-Somos un equipo apasionado dedicado a crear soluciones innovadoras con tecnología de vanguardia. 💻 Nuestro proyecto es una plataforma que aprovecha una conexión a base de datos para ofrecerte funcionalidades increíbles.
+Somos un equipo de desarrolladores apasionados por la tecnología. 💻 Nuestro proyecto es una landing page que aprovecha una conexión a base de datos para ofrecer funcionalidades como solicitudes de clientes y contacto directo con nuestra cafetería ficticia.
 
-## 🎉 Características 
+## 🎉 Características
 
-- **Conexión a Base de Datos:** Los datos quedan almacenados.
-- **Experiencia Intuitiva:** Una experiencia de usuario cómoda🌟.
+- **Conexión a Base de Datos:** Los datos se almacenan de manera local.
+- **Experiencia Intuitiva:** Una experiencia de usuario cómoda y fácil de navegar. 🌟
+
 
 ## 📸 Galería de Proyecto
 
